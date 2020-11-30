@@ -26,5 +26,5 @@ PM> Update-Database
 Mayor Informacion en el siguiente enlace de la práctica
 https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-5.0
 
-
+NOTA: Todo finalizado
 
